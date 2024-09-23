@@ -4,4 +4,5 @@ This is a browser version of something between a sketchpad and an Etch-a-Sketch.
 
 A little demo:
 
-TODO
+https://github.com/user-attachments/assets/fad12081-848a-4ce1-8435-d78aa09b85f5
+
